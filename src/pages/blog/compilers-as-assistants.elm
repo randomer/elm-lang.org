@@ -86,7 +86,7 @@ direction. This release:
    * introduces tail-call optimization
    * removes redundant syntax to improve the “code texture” of Elm
 
-Most importantly of these, **Elm compiler is now producing has the best error
+Most importantly of these, **Elm compiler is now producing the best error
 messages I have ever worked with**. And I hope you will feel the same way!
 
 Okay, enough overview, let’s dive into all the new stuff.
